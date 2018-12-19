@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunawayAllocationExample", "RunawayAllocationExample.csproj", "{BD5833B5-759E-456D-B1AB-FA0C8C9E849E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD5833B5-759E-456D-B1AB-FA0C8C9E849E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5833B5-759E-456D-B1AB-FA0C8C9E849E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5833B5-759E-456D-B1AB-FA0C8C9E849E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5833B5-759E-456D-B1AB-FA0C8C9E849E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {288661BA-7836-47F5-86C7-DD751EBE9EB9}
+	EndGlobalSection
+EndGlobal
