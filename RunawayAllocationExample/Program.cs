@@ -13,7 +13,7 @@ namespace Confluent_Kafka_Core___Simple_Consumer
 			{
 				new KeyValuePair<string, string>("bootstrap.servers", "YOURSERVERSHERE:9092"),
 				new KeyValuePair<string, string>("group.id", "YOURGROUPIDHERE"),
-				new KeyValuePair<string, string>("auto.offset.reset", "latest"),
+				new KeyValuePair<string, string>("auto.offset.reset", "earliest"),
 				new KeyValuePair<string, string>("statistics.interval.ms", "10000"),
 				//new KeyValuePair<string, string>("queued.min.messages", "1"),
 				//new KeyValuePair<string, string>("queued.max.messages.kbytes", "100")
